@@ -126,3 +126,103 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/Hackerdude374/SpendWise.git
+
+2. Install NPM packages
+   ```sh
+   npm install
+
+### Usage
+
+Use this space to show useful examples of how SpendWise can be used. Additional screenshots, code examples, and demos work well in this space.
+
+_For more examples, please refer to the [Documentation](https://github.com/Hackerdude374/SpendWise/wiki)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Initial release
+- [ ] Add support for multiple currencies
+- [ ] Implement data visualization features
+- [ ] Integrate machine learning for expense predictions
+
+See the [open issues](https://github.com/Hackerdude374/SpendWise/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make SpendWise better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Hackerdude374 - [GitHub Profile](https://github.com/Hackerdude374)
+
+Project Link: [https://github.com/Hackerdude374/SpendWise](https://github.com/Hackerdude374/SpendWise)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Font Awesome](https://fontawesome.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Hackerdude374/SpendWise.svg?style=for-the-badge
+[contributors-url]: https://github.com/Hackerdude374/SpendWise/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Hackerdude374/SpendWise.svg?style=for-the-badge
+[forks-url]: https://github.com/Hackerdude374/SpendWise/network/members
+[stars-shield]: https://img.shields.io/github/stars/Hackerdude374/SpendWise.svg?style=for-the-badge
+[stars-url]: https://github.com/Hackerdude374/SpendWise/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Hackerdude374/SpendWise.svg?style=for-the-badge
+[issues-url]: https://github.com/Hackerdude374/SpendWise/issues
+[license-shield]: https://img.shields.io/github/license/Hackerdude374/SpendWise.svg?style=for-the-badge
+[license-url]: https://github.com/Hackerdude374/SpendWise/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/yourname
+[product-screenshot]: images/screenshot.png
+[React-url]: https://reactjs.org/
+[Node-url]: https://nodejs.org/
+[Express-url]: https://expressjs.com/
+[MongoDB-url]: https://www.mongodb.com/
+
+
